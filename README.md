@@ -28,4 +28,7 @@ Le projet est organisé selon les principes de l'architecture **MVC** :
 ```
 ## Prérequis
 * Assurez vous d'avoir installé Python 3.x sur votre machine.
-* Exécutez le fichier principal **main.py** depuis votre terminal en tapant la commande : python main.py
+* Exécutez le fichier principal **main.py** depuis votre terminal en tapant la commande :
+  ```text
+    python main.py
+  ```
